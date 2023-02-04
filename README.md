@@ -2,7 +2,9 @@
 
 ## Interface Design Documentation
 This documenation provides the mood board, persona, UI wireframe and navigation map for the application below:
+
     Application Name: KNOB finance managenment 
+    
     Application Type: Budgeting mobile applicaton
 
 #### Mood Board
