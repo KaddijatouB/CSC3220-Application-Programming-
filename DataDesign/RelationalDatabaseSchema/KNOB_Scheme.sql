@@ -17,7 +17,6 @@ CREATE TABLE "UserProfile" (
 	FOREIGN KEY("UserID") REFERENCES userInfo("userID")
 );
 
-
 -- Table: Display Statics 
 CREATE TABLE "DisplayStats" (
 	"pieChart"	NUMERIC,
