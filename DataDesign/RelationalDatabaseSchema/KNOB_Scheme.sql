@@ -29,3 +29,5 @@ CREATE TABLE "Expense" (
 	"amount"	TEXT,
 	"date"	INTEGER
 );
+
+
