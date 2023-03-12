@@ -1,6 +1,6 @@
 /**
  *     Title: App Development Project
- *     Purpose: Program to create an android moblie App that tracks expenses tracker for budjecting.
+ *     Purpose: HomeScreen add navigation to the expense and listExpense screens
  *     Class: CSC3220 Applications Programming- Winter 2023
  *     Author: Kaddijatou Baldeh, Kendrick Bynum, Ian Wilson and Yassin Ali
  */
@@ -21,8 +21,11 @@ const HomeScreen = ({ navigation }) => {
   return (
     <View style={styles.container}>
       {/* App name for title and subtitle */}
-      <Text style={styles.title}>KNOB App</Text>
-      <Text style={styles.subtitle}> Finance Management</Text>
+      <View style={styles.boxContainer}>
+        <Text style={styles.title}>KNOB App</Text>
+        <Text style={styles.subtitle}> Finance Management</Text>
+      </View>
+      
       {/* Botton to add expense */}
       <TouchableOpacity style={styles.button} onPress={handleAddExpense}>
         <Text style={styles.buttonText}>Add Expense</Text>
@@ -42,6 +45,14 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     backgroundColor: '#F3F9FB',
   },
+  boxContainer:{
+    borderWidth: 2,
+    borderColor: '#C59A4A',
+    padding: 30,
+    borderRadius: 5,
+    backgroundColor: '#F3F9FB',
+    marginBottom: 50,
+  },
   title: {
     fontSize: 40,
     fontWeight: 'bold',
@@ -51,7 +62,6 @@ const styles = StyleSheet.create({
     fontSize: 15,
     fontWeight: 'bold',
     color: '#8F7262',
-    marginBottom: 50,
   },
   button: {
     backgroundColor: '#08366B',
