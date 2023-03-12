@@ -14,15 +14,20 @@
 
 ##### Home Screen
 
-![Screenshot_1678426468](https://user-images.githubusercontent.com/81199350/224517237-2780ba0e-e546-41a9-aafc-770ff9454356.png)
+
+![Screenshot 2023-03-11 at 1 55 46 PM](https://user-images.githubusercontent.com/81199350/224517366-47bbb6b6-22c2-4857-bb72-8b44865ad372.png)
+
 
 ##### Before storing data:
+
 
 ![Screenshot 2023-03-11 at 2 50 44 PM](https://user-images.githubusercontent.com/81199350/224517216-2018a173-25e3-4f94-a40b-5cddeca5371b.png)
 ![Screenshot 2023-03-11 at 2 51 06 PM](https://user-images.githubusercontent.com/81199350/224517236-a49fd31a-448f-49c0-a55e-459d78d3378a.png)
 
+
+
 ##### After storing data:
 
-![Screenshot_1678577141](https://user-images.githubusercontent.com/81199350/224517238-0bf89e03-306c-4441-88ac-c3da7efe4aac.png)
 
-![Screenshot_1678555236](https://user-images.githubusercontent.com/81199350/224517322-22032835-b51f-4ebc-9549-6b2145cf3300.png)
+![Screenshot 2023-03-11 at 1 56 13 PM](https://user-images.githubusercontent.com/81199350/224517402-9deae335-47a6-4618-a61b-f947ec0bc776.png)
+![Screenshot 2023-03-11 at 1 56 32 PM](https://user-images.githubusercontent.com/81199350/224517393-4932ca6e-f3d9-4713-b26c-fb5a9e6f5492.png)
